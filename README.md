@@ -15,9 +15,7 @@ This application leverages AWS Bedrock, FAISS for vector storage, and various la
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.6+
 - AWS Account and AWS CLI configured with access to Bedrock Runtime.
-- Streamlit
 
 ## Installation
 
